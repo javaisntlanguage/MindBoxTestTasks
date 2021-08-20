@@ -1,0 +1,4 @@
+select products.name, categories.name
+from products_categories 
+inner join products on products.id = products_categories.product_id 
+left join categories on products_categories.category_id = categories.id;

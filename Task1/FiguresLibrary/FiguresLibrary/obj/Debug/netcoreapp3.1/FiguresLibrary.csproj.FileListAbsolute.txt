@@ -1,0 +1,9 @@
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.deps.json
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.dll
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.pdb
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.csprojAssemblyReference.cache
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfoInputs.cache
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfo.cs
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.csproj.CoreCompileInputs.cache
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.dll
+C:\Users\artaj\Desktop\тест\test_works\MindBox_08_2021\FiguresLibrary\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.pdb
